@@ -1,24 +1,7 @@
-# mlog
+# 记录个人拍摄城市信息
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+需求：
+1. 开发地图展示
+2. 地图显示到过的位置
+3. 点击坐标位置展示该城市的图片或视频信息(标题，内容等信息)
+4. 尽量不使用后端进行操作(emmm,主要是嫌麻烦)
